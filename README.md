@@ -1,5 +1,5 @@
 ```js
-const roko = {
+const doruk = {
   role: [
     "Social Engineer",
     "Reverse Engineer",
@@ -28,5 +28,4 @@ Focused on offensive security through analysis of system internals
 and human-driven attack vectors. Concentrated on social engineering,
 reverse engineering, and exploit development with a low-level,
 system-first approach.
-`
-};
+`};
